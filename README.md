@@ -18,3 +18,5 @@ Once the aforementioned user features are laid out, the next part of this projec
 Then we go through mappings right before deploying the subgraph to the contract
 
 For more information and context, please see Section 5 of the #30DaysOfWeb3 course by Women Build Web3 https://www.30daysofweb3.xyz/en/curriculum/5-creating-your-subgraph/0-intro-to-the-graph
+
+Tools = @graphprotocol, The Graph, @protofire, AssemblyScript, 
